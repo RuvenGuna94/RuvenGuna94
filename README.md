@@ -19,4 +19,4 @@ I use GitHub to try things out and document what I learn along the way. Some pro
 
 I spend some of my free time volunteering, from academic befriending to helping run community AI education sessions. We introduce people to AI, explore practical ways to use it, and make the technology a little less intimidating.
 
-If you'd like to learn more about what we do or join me at an upcoming volunteer session, feel free to [reach out on LinkedIn](https://www.linkedin.com/in/ruven-guna/).
+Feel free to [message me on LinkedIn](https://www.linkedin.com/in/ruven-guna/) if you'd like to chat about any of my projects, AI, or what's happening in the industry. And if you're interested in joining a volunteer session, I'd be happy to share more.
