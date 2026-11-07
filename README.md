@@ -17,6 +17,6 @@ I use GitHub to try things out and document what I learn along the way. Some pro
 
 ## Outside of work
 
-Before getting into tech, I used to DJ. These days, I spend some of my free time volunteering, including academic befriending and helping people understand and adopt AI through community learning.
+I spend some of my free time volunteering, from academic befriending to helping run community AI education sessions. We introduce people to AI, explore practical ways to use it, and make the technology a little less intimidating.
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/ruven-guna/).
+If you'd like to learn more about what we do or join me at an upcoming volunteer session, feel free to [reach out on LinkedIn](https://www.linkedin.com/in/ruven-guna/).
